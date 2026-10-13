@@ -1,0 +1,18 @@
+# Shine TV — site inicial
+
+## Como abrir no VS Code
+1. Extraia o arquivo ZIP.
+2. Abra o VS Code.
+3. Clique em **Arquivo > Abrir Pasta** e escolha a pasta `shine-tv-site`.
+4. Abra `index.html` e use a extensão **Live Server** (botão direito > Open with Live Server). Também pode abrir `index.html` diretamente no navegador.
+
+## Onde alterar as informações
+- `index.html`: textos, nome, perguntas frequentes e preços.
+- `style.css`: cores, tamanhos, espaçamentos e aparência.
+- `script.js`: número de WhatsApp e mensagens automáticas.
+
+## Configurar o WhatsApp
+No início de `script.js`, substitua `5500000000000` pelo número oficial, incluindo código do país +55, DDD e telefone, sem `+`, espaços ou traços.
+
+## Antes de publicar
+Os preços são exemplos e precisam ser ajustados. Confirme todos os recursos e aparelhos compatíveis. Divulgue somente conteúdos e serviços que você tenha autorização legal para distribuir. Este projeto é um modelo visual inicial; não inclui sistema de login, pagamentos ou painel administrativo.
